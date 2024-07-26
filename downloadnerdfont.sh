@@ -1,3 +1,3 @@
 #!/bin/sh
 
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hasklig.zip
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip
